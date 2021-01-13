@@ -1,0 +1,332 @@
+        #topbar{
+            width: 1000px;
+            margin: 0 auto;
+            background-color:white;
+            height: 40px;
+        }
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        #logo{
+            margin-top: 8px;
+            width: 84px;
+            height: 24px;
+            float: left;
+            margin-right:8px;
+        }
+        #singin{
+            position: relative;
+            left: 5px;
+            top: 5px;
+        }
+        .top-bar{
+            float: left;
+            border-left: 1px #999999 solid;
+            height: 100%;
+            margin-left: 8px;
+        }
+        #SingIn-texto{
+            font-weight: bold;
+            margin-right: 50px;
+            position: relative;
+            left: 15px;
+        }
+        .texto{
+            padding: 0px 15px 0px 15px;
+            height: 80px;
+            font-weight: bold; 
+        }
+        #search{
+            float: right;
+            position: relative;
+            bottom: 29px;
+            left: 60px;
+
+        }
+        #lupa{
+            position: relative;
+            right: 30px;
+            float:right;
+            width: 31px;
+            height: 20px;
+        }
+        .frm{
+            background-color: #e4e4e4;
+        }
+        .flecha{
+            float: left;
+            margin: 15px 0px 0px 5px;
+        }
+        a{
+            text-decoration: none;
+            font-weight: bold;
+            color: black;
+        }
+        a:hover{
+            text-decoration: underline;
+            color: white;
+        }
+        #cuadro-news{
+            width: 100%;
+            height: 70px;
+            background-color:#BB1919;
+        }
+        #news{
+            color: white;
+            font-size: 40px;
+            float: left;
+            margin: 25px 0px 15px 180px;
+            position: relative;
+            bottom: 10px;
+        }
+        #topbar2{
+            float: left;
+            width: 100%;
+            margin: 0 auto;
+            background-color:#A91717;
+            height: 40px;
+            position: relative;
+            bottom: 17px;
+        }
+        .home{
+            float: left;
+            height: 90%;
+            margin-left: 80px;
+            text-align: center;
+            position: relative;
+            top: 15px;
+            right: 5px;
+        }
+        .texto2{
+            font-weight: bold;
+            color: white;
+            text-align: center;
+            font-size: 12px;
+            position: relative;
+            bottom: 15px;
+        }
+        .top-bar2{
+            float: left;
+            border-left: 1px #B84545 solid;
+            height: 15px;
+            width: 90px;
+            margin-left: 8px;
+            position: relative;
+            top: 15px;
+        }
+        #tech{
+            font-size: 20px;
+            text-decoration: underline;
+            text-decoration-color: #A91717;
+            margin: 80px 0px 0px 80px;
+        }
+        #titulo{
+            position: relative;
+            left: 70px;
+            float: left;
+            font-size: 20px;
+        }
+        .parrafo{
+            color: #5A5A5A;
+            margin: 0px;
+            font-size:20px;
+        }
+        #imagen-principal{
+            position: relative;
+            right: 350px;
+            top: 100px;
+        }
+        #reloj{
+            position: relative;
+            left: 80px;
+        }
+        #fecha{
+            position: relative;
+            left: 110px;
+            bottom: 34.5px;
+        }
+        .color-fecha{
+            color: #5A5A5A;
+        }
+        #separacion{
+            float: left;
+            border-left: 1px #CCCCCC solid;
+            margin-left: 8px;
+            position: relative;
+            left: 210px;
+            bottom: 70px;
+            height: 20px;
+        }
+        #tec{
+            color: #991717;
+            position: relative;
+            left: 10px;
+            bottom: 13px;
+        }
+        #nada{
+            color: white;
+            text-decoration: underline;
+            text-decoration-color: #991717;
+            position: relative;
+            bottom: 50px;
+        }
+        #applev{
+            float: left;
+            position: relative;
+            left: 80px;
+            bottom: 70px;
+        }
+        #apples{
+            float: left;
+            position: relative;
+            left: -138px;
+            bottom: 40px;
+        }
+        #seccion-derecha{
+            position: relative;
+            bottom: 300px;
+            width: 40%;
+            height: 50%;
+            float: right;
+            border-left: 1px #999999 solid;
+        }
+        #titulo-derecha{
+            position: relative;
+            left: 50px;
+            bottom: 25px;
+        }
+        #img-1{
+            float: left;
+            position: relative;
+            left: 25px;
+            bottom: 20px;
+        }
+        #art1{
+            float: left;
+            font-size: 20px;
+            position: relative;
+            bottom: 35px;
+            left: 50px;
+        }
+        #art1-1{
+            float: left;
+            font-size: 20px;
+            position: relative;
+            bottom: 30px;
+            right: 125px;
+        }
+        #reloj-art1{
+            float: left;
+            position: relative;
+            right: 300px;
+            top: 25px;
+        }
+        #art-22{
+            float: left;
+            position: relative;
+            left: 190px;
+            bottom: 54px;
+        }
+        .tech-rojo{
+            color: #A91717;
+        }
+        #sep-tech{
+        width: 50px;
+        height: 20px;
+        border-left: 1px #999999 solid; 
+        float: left;
+        position: relative;
+        left: 200px;
+        bottom: 40px; 
+        }
+        #tec1{
+            float: left;
+            position: relative;
+            bottom: 15px;
+            left: 8px;
+        }
+        #img-2{
+            float: left;
+            position: relative;
+            right: 110px;
+        }
+        #woz{
+            float: left;
+            position: relative;
+            right: 80px;
+            bottom: 20px;
+        }
+        #over{
+            float: left;
+            position: relative;
+            right: 80px;
+            bottom: 55px;
+        }
+        #reloj-art2{
+            float: left;
+            position: relative;
+            right: 190px;
+        }
+        #tec2{
+            float: left;
+            position: relative;
+            right: 185px;
+            bottom: 15px;
+        }
+        #sep-tech2{
+        width: 50px;
+        height: 20px;
+        border-left: 1px #999999 solid; 
+        float: left;
+        position: relative;
+        right: 180px;
+        }
+        #tec3{
+            float: left;
+            position: relative;
+            bottom: 15px;
+            left: 8px;
+        }
+        #img-3{
+            float: left;
+            position: relative;
+            right: 325px;
+        }
+        #swe{
+            float: left;
+            position: relative;
+            left: 160px;
+            bottom: 80px;
+        }
+        #help{
+            float: left;
+            position: relative;
+            bottom: 50px;
+            right: 20px;
+        }
+        #reloj-art3{
+            float: left;
+            position: relative;
+            right: 140px;
+        }
+        #tec4{
+            float: left;
+            position: relative;
+            right: 130px;
+            bottom: 15px;
+        }
+        #sep-tech3{   
+        width: 50px;
+        height: 20px;
+        border-left: 1px #999999 solid;
+        position: relative;
+        left: 290px;
+        top: 195px;
+        }
+        #tec5{
+            float: left;
+            position: relative;
+            bottom: 270px;
+            left: 5px
+        }
